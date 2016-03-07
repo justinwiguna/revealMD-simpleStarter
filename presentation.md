@@ -1,5 +1,5 @@
-##TODO: Add your presentations title
-<p><br/><br/><small>TODO: Add your name</a></small></p>
+##Sample presentation
+<p><br/><br/><small>Justin Wiguna</a></small></p>
 
 
 ###Vertical Slide 1
